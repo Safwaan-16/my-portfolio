@@ -1,0 +1,25 @@
+
+@media (max-width: 600px) {
+    #nav-section ul {
+        width: 100%;
+        gap: 15px;
+        padding: 0 12px;
+    }
+
+    #introduction {
+        margin-top: 65px;
+    }
+
+    #introduction h1 {
+        font-size: 32px;
+    }
+
+    #tag p {
+        font-size: 16px;
+    }
+
+    .links {
+        flex-wrap: wrap;
+        margin-top: 35px;
+    }
+}
